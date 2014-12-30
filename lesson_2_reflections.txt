@@ -1,2 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 first a .git repository is created.and to use git you need to do this .
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+in between
+
+How can you use the staging area to make sure you have one commit per logical change?
+by using git diff
+
+How do the diagrams help you visualize the branch structure?
+very good to find branches and the reachability.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+couldn't understand
